@@ -44,7 +44,9 @@ Creates new directory in specified location
 
 > $ mkdir -p [path to new dir]
 
-Parameter '<strong>-p</strong>' makes command to create not only the last specified dir, but all mentioned non-existing too. For example we have filesystem 'home/user', command 'mkdir -p home/user/dir1/dir2' would work, but 'mkdir home/user/dir1/dir2' won't because 'dir1' doesn't exist
+Parameter '<strong>-p</strong>' makes command to create not only the last specified dir, but all mentioned non-existing too. 
+
+For example we have filesystem 'home/user', command 'mkdir -p home/user/dir1/dir2' would work, but 'mkdir home/user/dir1/dir2' won't, because 'dir1' doesn't exist
 
 ## \> rmdir
 > $ rmdir [path to dir]
