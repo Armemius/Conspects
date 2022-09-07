@@ -51,3 +51,5 @@ Moves file or dir to specified location
 > $ mv -i [filename] [filename]
 
 Same as in 'cp' command
+
+[Go back](./..)

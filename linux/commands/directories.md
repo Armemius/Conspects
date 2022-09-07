@@ -56,3 +56,5 @@ Removes specified directory (works only with empty dirs)
 > $ rmdir -p [path to dir]
 
 Parameter '<strong>-p</strong>' here works same way as with 'mkdir'
+
+[Go back](./..)

@@ -43,11 +43,13 @@ Shows list of all installed packages that can be upgraded
 > $ cowsay [text]
 
 Very important command: you write text, and cow says it
-> _________________
-> < Your mom is gay >
-> -----------------
->        \   ^__^
->         \  (oo)\_______
->            (__)\       )\/\
->                ||----w |
->                ||     ||
+
+ < Your mom is gay >
+ -----------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+[Go back](./..)

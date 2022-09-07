@@ -61,3 +61,5 @@ Displays whole text file, but on separate pages, useful when file to display doe
 > $ strings [filename]
 
 Finds text in binary files and displays it
+
+[Go back](./..)
